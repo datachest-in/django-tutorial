@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Development-related
+*.pyo
+*.pyd
+*.swp
+*~
+/.vscode/
+
+# IDE files
+.idea/
+.vscode/
+
+# Docker-related
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+usercreds.txt
